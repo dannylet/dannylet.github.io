@@ -1,2 +1,2 @@
 # dannylet.github.io
-！[圖](
+！[py.jpg]
