@@ -1,2 +1,2 @@
 # dannylet.github.io
-！[py](py.jpg)
+![py](py.jpg)
